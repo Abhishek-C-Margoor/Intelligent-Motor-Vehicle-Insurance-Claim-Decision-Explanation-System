@@ -62,3 +62,12 @@ backend/rag/rag_index/
 .coverage
 htmlcov/
 .pytest_cache/
+
+# ML Models
+*.pt
+*.pth
+*.index
+
+# Vector DB
+*.faiss
+*.csv
